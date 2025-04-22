@@ -1,6 +1,4 @@
-# pms
-
-A Parking Management System
+# 🚗 A Parking Management System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Smart%20Parking%20Space-v1.0.0-blue" alt="Version" />
@@ -9,8 +7,6 @@ A Parking Management System
   <img src="https://img.shields.io/badge/React-v18.2.0-blue" alt="React" />
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License" />
 </p>
-
-# 🚗 Smart Parking Space
 
 A **Smart Car Parking Management System** with real-time slot monitoring, reservations, and an admin dashboard,all built on a **Node.js/Express** + **PostgreSQL** backend and a **React/Tailwind CSS** frontend.
 
